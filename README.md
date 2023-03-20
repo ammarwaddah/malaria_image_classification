@@ -79,7 +79,7 @@ To run and show analysis, insights, correlation, and results between any set of 
 
 2. Load the dataset.
 
-3. Select which cell you would like to run and show its output on the EDA process.
+3. Select which cell you would like to run and show its output.
 
 5. Run the rest of cells to end up in the training process and visualizing results.
 
