@@ -86,5 +86,6 @@ To run and show analysis, insights, correlation, and results between any set of 
 4. Run Selection/Line in Python Terminal command (Shift+Enter).
 
 ## Sources
-This data was taken from TensorFlow public datasets\
+This data was taken from TensorFlow public datasets:
+
 (tfds.load(name='malaria', data_dir='tmp', with_info=True, as_supervised=True, split=tfds.Split.TRAIN))
